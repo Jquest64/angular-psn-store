@@ -156,7 +156,7 @@ Passar parâmetros de componentes pais para filhos em Angular, utilizando a cria
 
 A refatoração de código, focando na técnica de atomização de componentes para melhorar a organização e manutenibilidade dos projetos.  Dividindo um componente maior, como uma barra de menu, em subcomponentes menores, tornando o código mais limpo e modular.
 
-**Aplicando técnicas de** refatoração**:**
+**Aplicando técnicas de** refatoração**:
 
 - **Atomização:** Quebrar componentes grandes em unidades menores e específicas.
 - **Organização CSS:** Manter o CSS específico para cada componente.
