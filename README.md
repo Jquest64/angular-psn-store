@@ -95,7 +95,7 @@ Estilizar um menu de navegação utilizando CSS, com foco na melhoria da aparên
 - **Estilização dos links (`<a>`):** Uso de `text-decoration`, `color`, `font-family`, `padding`, e `font-weight` para definir cor, fonte, espaçamento e peso da fonte.
 - **Efeito hover:** Adição de efeito `hover` para mudar a cor e o peso da fonte dos links
 
-## **Criando components a nível de átomo**
+## **Criando componentes a nível de átomo**
 
 Criação de componentes de nível atômico em React, focando na organização em pastas e subcomponentes dentro de um componente maior, "Card". A ideia é evitar componentes isolados e promover uma estrutura mais organizada e reutilizável.
 
