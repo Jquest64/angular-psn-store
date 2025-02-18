@@ -1,4 +1,5 @@
-# AngularPsnStore
+# Recriando a Interface da PlayStation Store com Angular
+Para o desafio de projeto, utilizei o Docker Compose para executar uma aplicação web em um container Apache e criei um arquivo YML com as definições do servidor (httpd).
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
 
