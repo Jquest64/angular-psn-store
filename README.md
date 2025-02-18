@@ -69,8 +69,6 @@ Criação de menus, configurando um menu utilizando HTML e CSS, com foco na impl
 4. Centralização do logo e itens do menu usando `display: flex` e `align-items: center`.
 5. Uso de `margin-left` e `margin-top` para espaçamento.
 
----
-
 ## Resolvendo o problema da imagem no navegador:
 
 Eu estava com um problema na imagem com a tag `img`, que não aparecia no navegador, e resolvi esse problema ajustando a configuração no `angular.json`.
@@ -86,8 +84,6 @@ Outra coisa importante a verificar é o arquivo `angular.json`. Este arquivo co
 ],
 
 ```
-
----
 
 ## **Menu parte 2**
 
