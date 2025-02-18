@@ -1,7 +1,8 @@
 # Recriando a Interface da PlayStation Store com Angular
-Desafio de projeto utilizando Angular: recriação do site da PlayStation Store, com estilização do menu e do conteúdo dos jogos, aplicando os conceitos de componentes, HTML5 e CSS.
 
 ![PlayStation Store](src/assets/playstation-store.png)
+
+Desafio de projeto utilizando Angular: recriação do site da PlayStation Store, com estilização do menu e do conteúdo dos jogos, aplicando os conceitos de componentes, HTML5 e CSS.
 
 ## Criando a estrutura base do projeto
 
