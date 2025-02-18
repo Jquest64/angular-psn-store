@@ -12,7 +12,7 @@ Construção do layout da interface da PlayStation Store para o desenvolvimento 
 1. **Componente Único**: Englobando imagem, texto e preço
 2. **Atomização**: Dividindo o card em componentes menores (imagem/link, texto descritivo, preço/informações adicionais).
 
-## **Criando a base dos components**
+## **Criando a base dos componentes**
 
 Criação da base de componentes para um projeto Angular, começando pela criação da estrutura do projeto com uma pasta `pages` que contém um componente `home`.
 
