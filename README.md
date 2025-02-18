@@ -163,5 +163,3 @@ A refatoração de código, focando na técnica de atomização de componentes p
 - **Angular CLI:** Uso da ferramenta `ng generate` para criar novos componentes.
 - **Refatoração:** Reorganizar o código sem alterar sua funcionalidade.
 - **Benefícios:** Código mais limpo, fácil de manter, modular e escalável.
-
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
