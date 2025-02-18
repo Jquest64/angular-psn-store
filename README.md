@@ -1,15 +1,13 @@
 # Recriando a Interface da PlayStation Store com Angular
 Desafio de projeto utilizando Angular: recriação do site da PlayStation Store, com estilização do menu e do conteúdo dos jogos, aplicando os conceitos de componentes, HTML5 e CSS.
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
-
 ## Criando a estrutura base do projeto
 
 Criando da estrutura base de um projeto Angular utilizando o Angular CLI. O processo inicia com a pasta para o projeto, nomeada "angular-psn-store".
 
 ## **Estudo do Layout**
 
-Construção de layouts em desenvolvimento web, destacando a técnica de atomização de componentes. Criação de um card de jogo usando duas abordagens:
+Construção do layout da interface da PlayStation Store para o desenvolvimento web, destacando a técnica de atomização de componentes. Criação de um card de jogo usando duas abordagens:
 
 1. **Componente Único**: Englobando imagem, texto e preço
 2. **Atomização**: Dividindo o card em componentes menores (imagem/link, texto descritivo, preço/informações adicionais).
@@ -170,3 +168,5 @@ A refatoração de código, focando na técnica de atomização de componentes p
 - **Angular CLI:** Uso da ferramenta `ng generate` para criar novos componentes.
 - **Refatoração:** Reorganizar o código sem alterar sua funcionalidade.
 - **Benefícios:** Código mais limpo, fácil de manter, modular e escalável.
+
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
