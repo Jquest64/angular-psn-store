@@ -74,8 +74,7 @@ Criação de menus, configurando um menu utilizando HTML e CSS, com foco na impl
 Eu estava com um problema na imagem com a tag `img`, que não aparecia no navegador, e resolvi esse problema ajustando a configuração no `angular.json`.
 
 ### Configuração do Angular.json
-
-Outra coisa importante a verificar é o arquivo `angular.json`. Este arquivo contém configurações sobre como os assets são tratados. Certifique-se de que a pasta `assets` e subpastas estão corretamente listadas na seção `assets`. Por exemplo:
+É importante verificar o arquivo angular.json, pois ele contém configurações sobre como os assets são tratados. Certifique-se de que a pasta assets e suas subpastas estejam corretamente listadas na seção assets. Por exemplo:
 
 ```json
 "assets": [
