@@ -40,7 +40,7 @@ Criação e implementação de fundos gradientes em CSS, com foco específico us
 
 Link da ferramenta: https://cssgradient.io/
 
-## **Estruturando uma página**
+## **Estruturando uma página web**
 
 Estruturação de uma página web com HTML e CSS, focando na criação de um menu e um container para cards. O processo é explicado passo a passo para um layout responsivo e visualmente agradável.
 
