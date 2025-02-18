@@ -123,7 +123,7 @@ Estilização de um componente "Card" em CSS, focando na otimização e clareza 
 
 A organização do código HTML é destacada como extremamente concisa, com a estilização separada e focada em responsabilidades específicas para cada componente (container, imagem, label e price). Criação e estilização dos componentes `Card Label` e `Card Price` em etapas subsequentes.
 
-## **Criando o Label**
+## **Criando o Card Label**
 
 Criação de um componente "Label" em HTML e CSS, passo a passo. Inicialmente, a estrutura HTML é construída com divs aninhadas (`card-label`, `card-label__container`, `card-label__content`) para organizar o conteúdo, começando com o texto estático "Exclusive".
 
